@@ -1,5 +1,5 @@
 {
-  "name": "andresjosehr-portfolio",
+  "name": "yshgroup-portfolio",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -32,6 +32,7 @@
     "ngx-google-analytics": "^11.2.0",
     "ngx-owl-carousel-o": "^17.0.0",
     "rxjs": "~6.5.5",
+    "symbol-observable": "^4.0.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.14.6"
   },

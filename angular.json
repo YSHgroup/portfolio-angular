@@ -3,7 +3,7 @@
     "version": 1,
     "newProjectRoot": "projects",
     "projects": {
-        "andresjosehr-portfolio": {
+        "yshgroup-portfolio": {
             "projectType": "application",
             "schematics": {},
             "root": "",
@@ -19,7 +19,8 @@
                 "build": {
                     "builder": "@angular-devkit/build-angular:browser",
                     "options": {
-                        "outputPath": "dist/andresjosehr-portfolio",
+                        "outputPath": "dist/yshgroup-portfolio",
+                        "baseHref": "/portfolio-angular/",
                         "index": "src/index.html",
                         "main": "src/main.ts",
                         "polyfills": "src/polyfills.ts",
